@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Henry Martin his speech in the House of Commons, before his departure thence. June 8. 1648.</title>
+            <author>Marten, Henry, 1602-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89180</idno>
+            <idno type="STC">Wing M2267A</idno>
+            <idno type="STC">Thomason E446_19</idno>
+            <idno type="STC">ESTC R204841</idno>
+            <idno type="EEBO-CITATION">99864300</idno>
+            <idno type="PROQUEST">99864300</idno>
+            <idno type="VID">161783</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89180)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161783)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E446[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Henry Martin his speech in the House of Commons, before his departure thence. June 8. 1648.</title>
+                  <author>Marten, Henry, 1602-1680.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire-- Thomason Catalogue.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Marten, Henry, 1602-1680 --  Humor --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161783:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 92 -->
+            <p>Mr: <hi>HENRY MARTIN</hi> HIS SPEECH In the Houſe of COMMONS, BEFORE his Departure thence.</p>
+            <p>June 8. 1648.</p>
+            <p>Printed in the Yeare 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:161783:2"/>
+            <!-- PDF PAGE 93 -->
+            <pb n="1" facs="tcp:161783:2"/>
+            <!-- PDF PAGE 93 -->
+            <head>
+               <hi>Mr.</hi> Henry Martins <hi>Speech.</hi>
+            </head>
+            <opener>
+               <salute>Mr. Speaker:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>OU know how forward I have beene alwayes from the begin<g ref="char:EOLhyphen"/>ning, to act and ſpeake Treaſon. I was not like Adam, that olde foole, to hide my tranſgreſſions in my boſome. I am an Achan in part, but not in whole: for he confeſſed his ſinnes troubled Iſ<g ref="char:EOLhyphen"/>rael, in a penitent way, but I ſcorne his baſeneſſe: I have troubled Iſrael and glory in it. I hate that Tray<g ref="char:EOLhyphen"/>tor Iudas, who will repent of his Treaſon, and reſtore that mony which was the price of Chriſts bloud: what baſe principles had theſe blades? Had I receyved the 30 pieces of ſilver, I would have gone with it ſtraight to a Bawdy houſe, and have had a gallant yong Wench for it. I was once in hope to have ſpent the Kings Re<g ref="char:EOLhyphen"/>venew this way, and you know I put the ſame in a ve<g ref="char:EOLhyphen"/>ry good forwardneſſe; but now I feare much thoſe Welſh Rogues, have beene the leading Carde to all miſchiefe; and will be a meanes to hinder my intention of erecting a famous Stewes in the City of London, with the Kingdomes money. The Raskalls pretend it is for their Arreares, and an act of Indempnity they
+<pb n="2" facs="tcp:161783:3"/>
+               <!-- PDF PAGE 94 -->ſtand for: what cowardly Traytors are theſe? Stand to aske an act of Indempnity of a King in priſon, when I that am no ſoldier (unleſſe it bee under Venus banner) durſt ſpeake high Treaſon as frequently, as I dare lie with Mrs. <hi>Dunce.</hi> When the King had power equall with ours, I durſt teare his Proclamation: nay if I were ſure I could do it, I durſt teare his heart out of his body, and drinke healths of his bloud to my little creature in Drury lane; and yet theſe cowardly Goates who have ſwords in their hands, muſt ſtand for that of us, which we have as much need of as themſelves, if the King ſhould come againe. And for their arrears, Mr. Spea<g ref="char:EOLhyphen"/>ker, you know as well as I, what for buying of Land and Bawdy houſes, wee cannot ſpare them one peny. For how ſhall you and all covetous men in the Houſe, have their full number of Lordſhips which they intend to buy, if theſe Knaves ſhould have their arreares? Or how ſhall I, and all the Whoremaſters of the Houſe, keepe halfe a dozen Whores, if they have their arrears? if that be granted them, we ſhould never be able to keep above one a peece (except ſome private friends.) And, Mr. Speaker, what doe you thinke Mr. <hi>Corbets</hi> wife, and the reſt of the Members wives would do, and how would they be able to maintayne their Cloſet Gentle<g ref="char:EOLhyphen"/>men, if the Soldiers ſhould have their arrears? Pox eat them, they have hindred our trading already: and now <hi>Langdale</hi> and <hi>Glemham</hi> are come in to aſſiſt that wic<g ref="char:EOLhyphen"/>ked wight, the King. The Citizens feare a new War, and will not part with their money. Mr. Speaker, I will turne up their Wives, and you ſhall plunder their Bags, if the Army prevayle. But what a Divell made thoſe Pippins of Kent to riſe? they begin to bud, and preach,
+<pb n="3" facs="tcp:161783:3"/>
+               <!-- PDF PAGE 94 -->and threaten Rebellion againſt us; that had beene en<g ref="char:EOLhyphen"/>ough had we ſate theſe 7. yeeres with them, and layne with their wives, as we have done with the Londoners, then they had had ſome colour of complaint: but if Sir <hi>Thomas</hi> prevayle over their husbands, I will take a Countrey houſe amongſt them, and you ſhall ſee how I will come over their wives.</p>
+            <p>Mr. Speaker, I would adviſe you beg and buy all the Land in Kent, that you may racke and puniſh them ſoundly, for riſing againſt your profit, and my pleaſure. Would they, Knaves, have the King come home? which if they obtayne, what ſhall we have? I know no<g ref="char:EOLhyphen"/>thing but a fayre new Gallowes, and a <hi>Gregory</hi> to bee our Godfather. I pray you, Mr. Speaker, do you think ever to enjoy your Lands, bought ſince this Reformati<g ref="char:EOLhyphen"/>on, if the King come home? Or doe you thinke I ſhall goe any more to a Bawdy houſe, or will my Wenches be ſuffered to come to me, when I have no money, and lie in priſon? No, no. Remember that the King is a ſterne ſolid man, and no foole, and having all the peo<g ref="char:EOLhyphen"/>ple for him, we ſhall hardly ſcape with our lives.</p>
+            <p>Mr. Speaker, nothing troubles me ſo much, as thoſe Calves of Eſſex, who gave entertaynment to thoſe old dry bones of <hi>Goring,</hi> who is able to doe their wives no good: had they but ſent for the Earle of Stamford, or me, we ſhould ſoone have got the love of their wives, or elſe wee would have hazarded the running of the Reines. But, M. Speaker, my greateſt ſorrow is, that I muſt be forced to leave Mrs. <hi>Dunce,</hi> and the reſt of my creatures behinde me, if Sir <hi>Thomas</hi> doe not pre<g ref="char:EOLhyphen"/>vayle. If there be any Gentleman in the Houſe, that hath beene in New England, I deſire to know whether
+<pb n="4" facs="tcp:161783:4"/>
+               <!-- PDF PAGE 95 -->there be any Bawdy houſes in that Country; if there be none, I muſt be at charge to cary a ſcore or two of honeſt Wenches with me. I know in Spain and France be good ſtore, but their King is not in priſon, and I will not come amongſt ſuch obedient ſcabs. But I feare much that I ſhall ſcarce get out of the Land, but muſt dye like a Bird upon a Tree, now the Navy is gone; but if I ſhould, it will not trouble me halfe ſo much, if the King will but ſuffer a handſome Whore to be my Executioner: I conceive it could not but well pleaſe <hi>Iohn Baptiſt</hi> that his head was danced off with ſo handſome a Wench as <hi>Herodias</hi> Daughter: I know, Mr. Speaker, the King loves me better then he doth <hi>Vane,</hi> or <hi>Per<g ref="char:EOLhyphen"/>point,</hi> or <hi>Mildmay,</hi> or <hi>Haſlerigge,</hi> or <hi>Evillin,</hi> or St. <hi>Iohn,</hi> or <hi>Wild,</hi> or your ſelfe, becauſe I am plaine with him, and tell him and the world the truth of our intentions; I keepe me to my principles, and ſcorne to deale under<g ref="char:EOLhyphen"/>hand like a <hi>Iudas;</hi> I had rather kill my King then kiſſe him; I know I kiſſed his hand at <hi>Hampton Court,</hi> but I ſpeake ingeniouſly I had rather kiſſe Mrs. <hi>Dunces</hi> breech. Mr. Speaker, pray if you have any money that is not layd our upon Lands, ſend the Army ſome, that they may murther our enemies furiouſly: I ſhould not have beene backward my ſelfe to ſend them ſome, but that I have been too forward with the Bawdy houſes, which have almoſt gleaned me dry of money, of mar<g ref="char:EOLhyphen"/>row, and almoſt frenchyfied my tongue, that I can ſcarce ſpeake out my ſpeech.</p>
+            <p>Another queſtion I have to aske, which is to know whether there be any Apothecaries and Doctors there; if there be none, it will put me to a great charge; there<g ref="char:EOLhyphen"/>fore I heartily wiſh you, Mr. Speaker, to give your vote
+<pb n="5" facs="tcp:161783:4"/>
+               <!-- PDF PAGE 95 -->for me that I may have 10000 <abbr>l.</abbr> granted mee by the Houſe, to furniſh me with a Doctor and Drugs, to keep and preſerve my life; which if it bee denyed mee, the French ſcab will eat out my bowels: and if you vote for me to day for that money, I will vote for you to mor<g ref="char:EOLhyphen"/>row, for as much as will buy you a whole County in New England. Mr. Speaker, let us betwixt us, take the Kings Crowne out of the Abbey, and make ſale of that Babyloniſh Relique: it will yeeld us as much coyn as will buy you a great Town or two, and it will main<g ref="char:EOLhyphen"/>tayne part of my Wenches charge. But I heare ſome ſay, that in New England they will not ſuffer us to keepe a ſcore of whores apeece: but it is no matter; I have a project in my head, to ſet the people in love with a Parliament, by telling them it is the only way to make Religion flouriſh, and ſo deceive them, as we have done our Engliſh at home: they being very factiouſly given, will be led in blindneſſe with much eaſe; then we being Parliament men may keepe what Whores we pleaſe, and you may buy what Lordſhips you pleaſe. You ſhall be Speaker of that Houſe, and I wilbe Chayreman of a cloſe Committee at leaſt: and when we are there, wee will ſend for <hi>Hugh Peters</hi> to Preach that it is no ſinne to lye with a Saint. You know they of that Nation are all ſuch, who have beene moved by the ſpirit to lye with their mayds, neighbours daughters, neighbours wives, their owne daughters, and the like; and have for that beene baniſhed by the Miniſter of the Pariſh, in which they lived, or elſe forced through ſhame to goe thence, becauſe they would not ſtand in a white ſheet, in their Pariſh Church: nay moſt of them had no ſhame but would willingly have ſtood, would their conſci<g ref="char:EOLhyphen"/>ence
+<pb n="6" facs="tcp:161783:5"/>
+               <!-- PDF PAGE 96 -->but have given them leave to have come within a Church where the wicked meet.</p>
+            <p>Thus, Mr. Speaker, have I ſpoke my minde, as fully as I can at preſent: more I could ſay, did not theſe ſad tidings of ariſing in Wales, and almoſt the reſt of the whole Kingdome, call me to a ſpeedy worke; which is to chuſe my number of Creatures, I intend to cary with me. For my Doctor, I have choſen him already; a man without exception, and one known to you all his name is Dr. <hi>Baſtwicke,</hi> whom I know hath good skill in my diſeaſe. Thus Mr. Speaker, I take my leave of the Houſe, hoping we ſhall all meet in New England very ſhortly. Farewell.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
